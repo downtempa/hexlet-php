@@ -1,0 +1,16 @@
+{
+    "name": "downtempa/hexlet-php",
+    "description": "Test package",
+    "autoload": {
+        "psr-4": {
+            "Downtempa\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonid Mistyukov",
+            "email": "l.mistyukov@redcollar.ru"
+        }
+    ],
+    "require": {}
+}
