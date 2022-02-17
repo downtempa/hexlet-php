@@ -12,5 +12,7 @@
             "email": "l.mistyukov@redcollar.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    }
 }
